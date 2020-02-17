@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeFan</string>
+    <string name="TxtSpeedControl">Speed control</string>
+    <string name="TBtnStatusFan">Status Fan</string>
+    <string name="SwitchLight">LIGHT</string>
+    <string name="TxtSpeed">Speed</string>
+</resources>
